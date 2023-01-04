@@ -51,3 +51,9 @@ The following limitations applies on the emulator, so not every pack made will b
 - ROMs operating EEPROM in mode 3 may not work.
 - EA (with EEPROM) and J-Cart ROMs may not work.
 - Any ROM using more than 256 bytes of EEPROM in mode 2 may not work.
+
+Cloning
+-------
+Run:
+
+```git clone https://github.com/TraceEntertains/PSCDPackPlus --recursive```
