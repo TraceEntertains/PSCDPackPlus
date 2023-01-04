@@ -1,0 +1,4 @@
+[submodule "PSCDPackLib"]
+	path = PSCDPackLib
+	url = https://github.com/TraceEntertains/PSCDPackLib
+	branch = main
