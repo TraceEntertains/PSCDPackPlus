@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 using System.IO;
-using PSCDPackPlus.PSCDLib.Enums;
-using PSCDPackPlus.PSCDLib;
+using PSCDPackLib.Enums;
+using PSCDPackLib;
 
 namespace PSCDPackPlus
 {

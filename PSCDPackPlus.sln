@@ -1,10 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-# SharpDevelop 5.1
-VisualStudioVersion = 12.0.20827.3
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSCDPackPlus", "PSCDPackPlus\PSCDPackPlus.csproj", "{1E84AA2C-9110-40FD-93C5-8D14F5F9D86A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSCDPackPlus", "PSCDPackPlus\PSCDPackPlus.csproj", "{1E84AA2C-9110-40FD-93C5-8D14F5F9D86A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSCDPackLib", "PSCDPackLib\PSCDPackLib.csproj", "{140D8638-3366-4B46-9846-082512D0237B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,5 +17,15 @@ Global
 		{1E84AA2C-9110-40FD-93C5-8D14F5F9D86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E84AA2C-9110-40FD-93C5-8D14F5F9D86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E84AA2C-9110-40FD-93C5-8D14F5F9D86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140D8638-3366-4B46-9846-082512D0237B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140D8638-3366-4B46-9846-082512D0237B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140D8638-3366-4B46-9846-082512D0237B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140D8638-3366-4B46-9846-082512D0237B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B860E313-EA12-4839-9B03-19BCBEB6D83E}
 	EndGlobalSection
 EndGlobal
